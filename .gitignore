@@ -35,3 +35,11 @@ thumbs.db
 *.swp
 
 options.ini
+
+# Ignore build directory
+build/
+
+# Anjuta
+.anjuta/
+*.anjuta
+*anjuta*
